@@ -13,5 +13,5 @@ jobs:
 
       - uses: actions/setup-java@v5
         with:
-          distribution: 'correctto'
+          distribution: 'corretto'
           java-version: '25'
